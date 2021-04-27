@@ -582,9 +582,11 @@ Contact Section
 	outline: none;
 	border-bottom: 1px solid #444348;
 	border border-radius: 0px;
+	background: transparent;
 }
 textarea{
 	height: 180px;
+	background: transparent;
 }
 .form-btn{
 	text-align: right;
